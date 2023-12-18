@@ -43,26 +43,4 @@ maka dari itu, dibuatlah web aplikasi ini untuk mempermudah proses absensi.
      
        ________________________________________________________________________________________________________________________________________________________________
    
-   <strong>Langkah-langkah untuk menggunakan website ini</strong>
-     <ol type="1">
-    <li>Download repository</li>
-    <li>Ekstrak file pada direktori server</li>
-    <li>import file database "absenkaryawan.sql"</li>
-    <li>Masuk ke browser ketik "localhost/absenKaryawan-master/"  atau masukkan url yang ada di server anda</li>
-    
-  </ol>
-  
-   <b><h3>Password Default : </h3></b><br>
-  
-  1. <b>Admin</b><br>
-    Username = admin<br>
-    Password = admin<br><br>
-    
-  2. <b>Karyawan</b><br>
-    Username = karyawan<br>
-    Password = karyawan
-    
-      -> Catatan(PENTING) :
-    <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder db, yaitu 'absenkaryawan.sql'</i>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
